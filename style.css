@@ -1,6 +1,10 @@
 h1 {
   color: red;
 }
+.body{
+    background-color: #afafaf;
+    height: 50px;
+}
 
 .header{
     height: 50px;
