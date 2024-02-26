@@ -5,3 +5,16 @@ h1 {
     background-color: #afafaf;
     height: 50px;
 }
+
+.header{
+    height: 50px;
+    display: flex
+}
+.logo{
+    width: 30%;
+    background-color: #ccc;
+}
+.menu{
+    width: 70%;
+    background-color: #afafaf;
+}
