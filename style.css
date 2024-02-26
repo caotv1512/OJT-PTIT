@@ -1,3 +1,16 @@
 h1 {
   color: red;
 }
+
+.header{
+    height: 50px;
+    display: flex
+}
+.logo{
+    width: 30%;
+    background-color: #ccc;
+}
+.menu{
+    width: 70%;
+    background-color: #afafaf;
+}
